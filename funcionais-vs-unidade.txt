@@ -1,0 +1,3 @@
+→ Testes de unidade: desenvolvedor sabe como o código foi desenvolvido (considera informações sobre o código e a estrutura do sistema sob teste). Preocupa-se com o comportamento do código (não tanto com o comportamento do usuário em si).
+
+→ Testes funcionais: desenvolvedor não tem conhecimento das estruturas internas do código da aplicação e por isso concentra-se nas funções que o software contemplará (refletindo a ótica do usuário interessado em utilizar o programa).
