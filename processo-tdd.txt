@@ -1,0 +1,3 @@
+Ao utilzarmos Testes Funcionais e Testes de Unidade em uma mesma aplicação, começaremos escrevendo um teste funcional e, enquanto ele passar e a aplicação não tiver necessidade de refactoring, poderemos continuar escrevendo mais testes funcionais.
+
+Por outro lado, caso esse teste não passa, ou após ele passar for percebido que a aplicação precisa de refatoração, iremos escrever um teste de unidade. Para ele, seguiremos o ciclo TDD normal, a única diferença é que quando a aplicação não precisar de refactoring, e formos para a etap "Write a new test", o novo teste será do tipo Funcional.
